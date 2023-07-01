@@ -8,6 +8,7 @@ When running, visible @ http://localhost:3000/
 Will require installation of 'node_modules' dependency folder
 Run following command in terminal to install:
 ```npm install```
+
 Run website with command:
 ```node server.js```
 
