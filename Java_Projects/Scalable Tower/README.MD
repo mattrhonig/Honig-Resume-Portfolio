@@ -4,7 +4,7 @@ Scalable ASCII art Tower.
 
 <img align="left" width="400" height="500" src=https://github.com/mattrhonig/Honig-Resume-Portfolio/blob/main/Java_Projects/Scalable%20Tower/tower_images/size2.png>
 <img align="left" width="400" height="500" src=https://github.com/mattrhonig/Honig-Resume-Portfolio/blob/main/Java_Projects/Scalable%20Tower/tower_images/size4.png>
-
+<br>
 <hr>
 
 Software Engineering Assignment with requirements:
