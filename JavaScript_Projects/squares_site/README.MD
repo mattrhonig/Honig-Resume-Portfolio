@@ -14,6 +14,9 @@ Run website with command: `node server.js`
 <hr>
 
 Sidebar icons provided by icons8.com; 32px X 32px
+
 LinkedIn: https://icons8.com/icons/set/linkedin
+
 Github:   https://icons8.com/icons/set/code
+
 Resume:   https://icons8.com/icons/set/resume
