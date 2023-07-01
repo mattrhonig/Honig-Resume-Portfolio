@@ -2,8 +2,8 @@
 ## Matthew Honig
 Scalable ASCII art Tower.
 
-<img align="left" width="430" height="500" hspace="10" src=https://github.com/mattrhonig/Honig-Resume-Portfolio/blob/main/Java_Projects/Scalable%20Tower/tower_images/size2.png>
-<img align="left" width="430" height="500" hspace="10" src=https://github.com/mattrhonig/Honig-Resume-Portfolio/blob/main/Java_Projects/Scalable%20Tower/tower_images/size4.png>
+<img align = "center" width = "430" height = "500" src=https://github.com/mattrhonig/Honig-Resume-Portfolio/blob/main/Java_Projects/Scalable%20Tower/tower_images/size2.png>
+<img align = "center" width = "430" height = "500" src=https://github.com/mattrhonig/Honig-Resume-Portfolio/blob/main/Java_Projects/Scalable%20Tower/tower_images/size4.png>
 
 
 
