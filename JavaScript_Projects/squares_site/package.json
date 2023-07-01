@@ -1,0 +1,16 @@
+{
+  "name": "squares_site",
+  "version": "1.0.0",
+  "description": "Color-changing squares",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Matthew Honig",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
