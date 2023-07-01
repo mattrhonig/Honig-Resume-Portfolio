@@ -1,6 +1,9 @@
 # JavaScript project - 6/2023
 ## Matthew Honig
 Color-changing squares with random colors that change at random times.
+
+![Example of website](https://github.com/mattrhonig/Honig-Resume-Portfolio/blob/main/JavaScript_Projects/squares_site/public/images/site_image_example.png)
+
 When running, site will be visible @ http://localhost:3000/
 
 <hr>
